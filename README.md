@@ -1,5 +1,5 @@
 # Project ZERO-G Vision
-**Team:** Galactic 404
+**Team:** Galactic 404 
 **Final mAP Score:** 0.865
 
 ## Description
