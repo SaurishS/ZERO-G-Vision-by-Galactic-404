@@ -33,3 +33,8 @@ However, a full training cycle revealed that the larger model began to overfit t
 2.  Navigate to the main project folder.
 3.  Run the prediction script: `python predict.py`
 4.  The script will validate the included `best.pt` model and print the final results table, showing the 0.865 mAP score.
+
+## 👩‍🚀 Team Members – Team Galactic 404
+
+- **Saurish Sagar** – [GitHub](https://github.com/SaurishS)
+- **Anu Singh** – [GitHub](https://github.com/anu-singh2507)
